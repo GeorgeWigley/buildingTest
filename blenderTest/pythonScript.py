@@ -1,19 +1,33 @@
 import bpy
+import json
 
-# Add test plane
-#bpy.ops.mesh.primitive_plane_add(enter_editmode=False, align='WORLD', location=(0, 0, 0), scale=(3, 3, 3))
+# Read JSON file
+# with open('/inputs/testInput.json', 'r') as file:
+#     data = json.load(file)
+#
+# # Parse footprints
+# for fp in data['footprints']:
+#     verts = fp['verts']
+#     faces = fp['faces']
+#     height = fp['height']
+#     levels = fp['levels']
 
-# Store ref to object
-#activeObj = bpy.context.active_object
+verts = [[0,0,0], [0,10,0], [10,0,0], [10,10,0]]
+faces = [(0,2,1),(2,3,1)]
 
-# Load demo file
-bpy.ops.import_scene.fbx(filepath="C:/Users/George.000/Desktop/My project/blenderTest/inputs/testFootprint.fbx")
+# Create Mesh Datablock
+mesh = bpy.data.meshes.new("test")
+mesh.from_pydata(verts, [], faces)
 
-# Store ref to object
-activeObj = bpy.context.selected_objects[0]
+# Create Object and link to scene
+obj = bpy.data.objects.new("testobj", mesh)
+bpy.context.scene.collection.objects.link(obj)
+
+bpy.context.view_layer.objects.active = obj
+obj.select_set(True)
 
 # Add geo nodes
-gnmod = activeObj.modifiers.new("Buildify", "NODES")
+gnmod = obj.modifiers.new("Buildify", "NODES")
 
 # Add correct node group
 gnmod.node_group = bpy.data.node_groups['building']
@@ -22,4 +36,4 @@ gnmod.node_group = bpy.data.node_groups['building']
 bpy.ops.object.duplicates_make_real(use_base_parent=True, use_hierarchy=True)
 
 # Export Mesh
-bpy.ops.export_scene.gltf(filepath="C:/Users/George.000/Desktop/My project/blenderTest/outputs/test.gltf", export_format="GLTF_EMBEDDED", check_existing=False, use_selection=True)
+bpy.ops.export_scene.gltf(filepath="C:/Users/zk20435/Documents/buildingTest/blenderTest/outputs/test.gltf", export_format="GLTF_EMBEDDED", check_existing=False, use_selection=True)
