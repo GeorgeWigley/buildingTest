@@ -1,0 +1,2238 @@
+{
+    "rotating_chimney": [
+        {
+            "position": "<Vector (-5.8480, 1.6935, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-6.8201, 1.6935, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-6.8201, 0.2015, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-5.8480, 0.2015, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "small_chimney_round": [
+        {
+            "position": "<Vector (4.0664, -10.9885, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -8.0045, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -8.0045, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -10.9885, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-14.1105, 3.9314, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-16.0546, 3.9314, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-16.0546, 0.9475, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-14.1105, 0.9475, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-2.4458, 3.9314, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-4.3899, 3.9314, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-4.3899, 0.9475, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-2.4458, 0.9475, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "small_chimney_pointy": [
+        {
+            "position": "<Vector (-6.3341, -5.0205, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "air_vent_roof_a": [
+        {
+            "position": "<Vector (-11.1943, 2.4395, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "antenna_big": [
+        {
+            "position": "<Vector (2.2196, 2.4395, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (2.0833, 2.0833, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "Roof_door": [
+        {
+            "position": "<Vector (9.6065, -15.4645, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.8333, 2.0833, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "roof_window_glass": [
+        {
+            "position": "<Vector (9.6065, -9.4965, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (2.0833, 5.8333, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_wall_03": [
+        {
+            "position": "<Vector (13.2999, 3.4341, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 3.4341, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 3.4341, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 3.4341, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 3.4341, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 0.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 0.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 0.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.3333, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.3333, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.3333, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.3333, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.3333, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.3333, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.3333, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.3333, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_wall_01": [
+        {
+            "position": "<Vector (13.2999, -0.5445, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -0.5445, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -0.5445, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -0.5445, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -0.5445, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 0.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 0.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 0.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.6667, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.6667, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.6667, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.6667, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_wall_02": [
+        {
+            "position": "<Vector (-3.4179, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 10.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 10.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 10.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 10.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 10.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 10.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 10.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 10.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.6667, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.6667, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.6667, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.6667, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_pillar_CV": [
+        {
+            "position": "<Vector (13.2999, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_pillar": [
+        {
+            "position": "<Vector (-1.4738, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "middle_floor_pillar_CC": [
+        {
+            "position": "<Vector (-1.4738, -6.5125, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -6.5125, 9.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -6.5125, 12.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -6.5125, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "street_sign_b": [
+        {
+            "position": "<Vector (13.2999, -0.4651, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.9796, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (6.1387, -18.4484, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0794, -0.0000, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "street_sign_a": [
+        {
+            "position": "<Vector (-15.9828, 5.4234, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.2266, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -3.8594, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-6.7977, -6.5125, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (12.5970, 5.4234, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.9003, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 6.7034, 6.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.6638, 3.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "air_vent_b": [
+        {
+            "position": "<Vector (13.2999, 2.0876, 11.5512)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-4.5117, 5.4234, 3.3646)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-4.2293, 5.4234, 6.2705)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.7075, 5.4234, 9.1711)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 4.0543, 14.7933)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-12.3221, -6.5125, 5.6241)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -9.8983, 6.4655)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -15.8195, 8.7868)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -9.7171, 15.4051)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3064, -18.4484, 3.1822)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.8412, 5.4234, 6.2040)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (6.5882, 5.4234, 9.3905)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.3863, 5.4234, 15.0223)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (3.5665, 5.4234, 15.1666)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3201, 0.0000, 11.5512)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.5729, 10.0000, 6.3646)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.5219, 10.0000, 6.2705)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 2.1799, 6.1711)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.9535, 11.7933)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "satelite": [
+        {
+            "position": "<Vector (-10.0980, 5.4234, 11.6345)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-14.7092, 5.4234, 11.8755)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 4.7753, 11.5530)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.9199, -6.5125, 12.4248)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.8123, -18.4484, 12.0175)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.4753, 5.4234, 3.0948)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 3.9036, 8.6345)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.2933, 8.8755)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 9.6745, 8.5530)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "air_vent_a": [
+        {
+            "position": "<Vector (-17.0267, -0.2731, 2.9095)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 0.5240, 5.6438)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-2.9578, -6.5125, 9.1533)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.4480, -6.5125, 11.9527)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.8286, 6.1160)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.2914, 11.9441)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.3306, -18.4484, 11.6258)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -9.8288, 8.5577)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.9381, 2.9095)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 2.7352, 5.6438)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "trimm": [
+        {
+            "position": "<Vector (13.2999, 3.4341, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -0.5445, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.5232, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.4341, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.5232, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-15.0826, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.1943, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.3061, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.4179, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2961, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.5018, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.4591, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.4591, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.5018, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.3262, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.4532, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.7598, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.0664, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.3729, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.2311, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 0.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 0.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (1.6667, 10.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.3333, 10.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.3333, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 1.6667, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 1.6667, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.3333, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.1111, 1.0000, 1.0000)>"
+        }
+    ],
+    "top_trim_pillar_CV": [
+        {
+            "position": "<Vector (13.2999, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 15.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "top_trim_pillar": [
+        {
+            "position": "<Vector (-1.4738, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "top_trim_pillar_CC": [
+        {
+            "position": "<Vector (-1.4738, -6.5125, 18.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_wall_02": [
+        {
+            "position": "<Vector (13.2999, 3.1008, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -4.1898, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.6679, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -0.5445, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-14.8326, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-3.6679, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -8.8352, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -16.1258, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.0782, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -12.4805, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.1914, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.7479, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (2.0000, 0.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.0000, 0.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (2.0000, 10.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 2.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 5.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_wall_01": [
+        {
+            "position": "<Vector (13.2999, -0.5445, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.0561, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 3.1008, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -12.4805, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (4.1914, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -8.8352, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (11.0782, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 0.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (5.0000, 10.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 5.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_wall_03": [
+        {
+            "position": "<Vector (-11.4443, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-14.8326, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -4.1898, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-11.4443, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-7.0561, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1294, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.7479, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.6348, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.0000), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -16.1258, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.2151, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (7.6348, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.1478, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (8.0000, 10.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 8.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 2.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 8.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_pillar_CV_0.5m": [
+        {
+            "position": "<Vector (13.2999, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-17.0267, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-1.4738, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -18.4484, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 0.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (0.0000, 10.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 10.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-0.7854), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (10.0000, 0.0000, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_pillar": [
+        {
+            "position": "<Vector (-1.4738, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, 5.4234, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=0.0000), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (-9.2502, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=3.1416), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        },
+        {
+            "position": "<Vector (13.2999, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=-1.5708), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ],
+    "ground_floor_pillar_CC_0.5m": [
+        {
+            "position": "<Vector (-1.4738, -6.5125, 0.0000)>",
+            "rotation": "<Euler (x=0.0000, y=-0.0000, z=2.3562), order='XYZ'>",
+            "scale": "<Vector (1.0000, 1.0000, 1.0000)>"
+        }
+    ]
+}

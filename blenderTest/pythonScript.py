@@ -23,6 +23,7 @@ mesh.from_pydata(verts, [], faces)
 obj = bpy.data.objects.new("testobj", mesh)
 bpy.context.scene.collection.objects.link(obj)
 
+# select object
 bpy.context.view_layer.objects.active = obj
 obj.select_set(True)
 
@@ -32,8 +33,25 @@ gnmod = obj.modifiers.new("Buildify", "NODES")
 # Add correct node group
 gnmod.node_group = bpy.data.node_groups['building']
 
-# convert to mesh
-bpy.ops.object.duplicates_make_real(use_base_parent=True, use_hierarchy=True)
+# Create a dictionary to hold the instance data
+instance_dict = {}
 
-# Export Mesh
-bpy.ops.export_scene.gltf(filepath="C:/Users/zk20435/Documents/buildingTest/blenderTest/outputs/test.gltf", export_format="GLTF_EMBEDDED", check_existing=False, use_selection=True)
+with open("C:/Users/George.000/Desktop/My project/blenderTest/outputs/testOutput.json", "w") as f:
+    depsgraph = bpy.context.evaluated_depsgraph_get()
+    for inst in depsgraph.object_instances:
+        if (inst.is_instance):
+            # have correctly found instance, check if it's in the dict
+            if (inst.object.name not in instance_dict):
+                instance_dict[inst.object.name] = []
+
+            position = str(inst.matrix_world.to_translation())
+            rotation = str(inst.matrix_world.to_euler())
+            scale = str(inst.matrix_world.to_scale())
+
+            instance_dict[inst.object.name].append({
+                "position": position,
+                "rotation": rotation,
+                "scale": scale
+            })
+
+    json.dump(instance_dict, f, indent=4)
