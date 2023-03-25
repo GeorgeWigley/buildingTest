@@ -5,7 +5,6 @@ jsonOutputDict = {
     "buildings": []
 }
 
-
 # function that returns a dictionary of instance transforms, runs on currently slected footprint without geometry nodes
 # applied
 def GenerateInstancesDictForFootprint():
@@ -26,16 +25,16 @@ def GenerateInstancesDictForFootprint():
                 instance_dict[inst.object.name] = []
 
             positionX = inst.matrix_world.to_translation()[0]
-            positionY = inst.matrix_world.to_translation()[0]
-            positionZ = inst.matrix_world.to_translation()[0]
+            positionY = inst.matrix_world.to_translation()[1]
+            positionZ = inst.matrix_world.to_translation()[2]
 
             rotationX = inst.matrix_world.to_euler()[0]
-            rotationY = inst.matrix_world.to_euler()[0]
-            rotationZ = inst.matrix_world.to_euler()[0]
+            rotationY = inst.matrix_world.to_euler()[1]
+            rotationZ = inst.matrix_world.to_euler()[2]
 
             scaleX = inst.matrix_world.to_scale()[0]
-            scaleY = inst.matrix_world.to_scale()[0]
-            scaleZ = inst.matrix_world.to_scale()[0]
+            scaleY = inst.matrix_world.to_scale()[1]
+            scaleZ = inst.matrix_world.to_scale()[2]
 
             instance_dict[inst.object.name].append({
                 "position": [positionX, positionY, positionZ],
@@ -44,7 +43,7 @@ def GenerateInstancesDictForFootprint():
             })
     return instance_dict
 
-# Read JSON file
+# Read JSON file input
 with open('C:/Users/George.000/Desktop/My project/blenderTest/inputs/testInput.json', 'r') as file:
     data = json.load(file)
 
@@ -58,10 +57,6 @@ for fp in data['footprints']:
     # faces must be parsed into tuples
     for i in range(0, len(facesUnparsed), 3):
         faces.append(tuple(facesUnparsed[i:i + 3]))
-
-    print(verts)
-    print(faces)
-    input()
 
     # Create Mesh Datablock
     mesh = bpy.data.meshes.new("test")
