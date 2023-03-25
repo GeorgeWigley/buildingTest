@@ -12,8 +12,8 @@ import json
 #     height = fp['height']
 #     levels = fp['levels']
 
-verts = [[0,0,0], [0,10,0], [10,0,0], [10,10,0]]
-faces = [(0,2,1),(2,3,1)]
+verts = [[0, 0, 0], [0, 10, 0], [10, 0, 0], [10, 10, 0]]
+faces = [(0, 2, 1), (2, 3, 1)]
 
 # Create Mesh Datablock
 mesh = bpy.data.meshes.new("test")
@@ -44,9 +44,17 @@ with open("C:/Users/George.000/Desktop/My project/blenderTest/outputs/testOutput
             if (inst.object.name not in instance_dict):
                 instance_dict[inst.object.name] = []
 
-            position = str(inst.matrix_world.to_translation())
-            rotation = str(inst.matrix_world.to_euler())
-            scale = str(inst.matrix_world.to_scale())
+            position = str(inst.matrix_world.to_translation()[0]) + ", " + \
+                       str(inst.matrix_world.to_translation()[1]) + ", " + \
+                       str(inst.matrix_world.to_translation()[2])
+
+            rotation = str(inst.matrix_world.to_euler()[0]) + ", " + \
+                       str(inst.matrix_world.to_euler()[1]) + ", " + \
+                       str(inst.matrix_world.to_euler()[2])
+
+            scale = str(inst.matrix_world.to_scale()[0]) + ", " + \
+                    str(inst.matrix_world.to_scale()[1]) + ", " + \
+                    str(inst.matrix_world.to_scale()[2])
 
             instance_dict[inst.object.name].append({
                 "position": position,
