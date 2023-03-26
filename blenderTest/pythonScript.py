@@ -25,16 +25,16 @@ def GenerateInstancesDictForFootprint():
                 instance_dict[inst.object.name] = []
 
             positionX = inst.matrix_world.to_translation()[0]
-            positionY = inst.matrix_world.to_translation()[1]
-            positionZ = inst.matrix_world.to_translation()[2]
+            positionY = inst.matrix_world.to_translation()[2]
+            positionZ = inst.matrix_world.to_translation()[1]
 
             rotationX = inst.matrix_world.to_euler()[0]
-            rotationY = inst.matrix_world.to_euler()[1]
-            rotationZ = inst.matrix_world.to_euler()[2]
+            rotationY = inst.matrix_world.to_euler()[2]
+            rotationZ = inst.matrix_world.to_euler()[1]
 
             scaleX = inst.matrix_world.to_scale()[0]
-            scaleY = inst.matrix_world.to_scale()[1]
-            scaleZ = inst.matrix_world.to_scale()[2]
+            scaleY = inst.matrix_world.to_scale()[2]
+            scaleZ = inst.matrix_world.to_scale()[1]
 
             instance_dict[inst.object.name].append({
                 "position": [positionX, positionY, positionZ],
@@ -89,3 +89,5 @@ for fp in data['footprints']:
 # save to file
 with open("C:/Users/George.000/Desktop/My project/blenderTest/outputs/testOutput.json", "w") as f:
     json.dump(jsonOutputDict, f, indent=4)
+
+bpy.ops.export_scene.gltf(filepath="C:/Users/George.000/Desktop/My project/blenderTest/outputs/test.gltf", export_format="GLTF_EMBEDDED", check_existing=False, use_selection=True)
